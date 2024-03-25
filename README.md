@@ -140,7 +140,7 @@ Ensure you have Docker and docker compose both latest version installed on your 
 2. Add the following lines to the `.env` file, replacing `{OPENAI_API_KEY}` with your actual OpenAI API key:
 
    ```env
-   OPENAI_API_TOKEN={OPENAI_API_KEY}
+   OPENAI_API_KEY={OPENAI_API_KEY}
    PATHWAY_REST_CONNECTOR_HOST=8080
    PATHWAY_REST_CONNECTOR_PORT=backend
    NEWS_API_KEY="5635b529b43446868b7e7b6ec97fecab"
@@ -203,7 +203,7 @@ Ensure you have Conda installed on your system before proceeding. Conda will be 
     Create .env file in the root directory of the project, copy and paste the below config, and replace the {OPENAI_API_KEY} configuration value with your key.
 
     ```env
-    OPENAI_API_TOKEN={OPENAI_API_KEY}
+    OPENAI_API_KEY={OPENAI_API_KEY}
     PATHWAY_REST_CONNECTOR_HOST=8080
     PATHWAY_REST_CONNECTOR_PORT=0.0.0.0
     NEWS_API_KEY="5635b529b43446868b7e7b6ec97fecab"
