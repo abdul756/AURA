@@ -1,0 +1,39 @@
+services:
+  frontend:
+    build: .
+    command: streamlit run ./ui/server.py
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    depends_on:
+      - backend
+    networks:
+      - app-network
+
+  backend:
+    build: .
+    command: python main.py
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    networks:
+      - app-network
+
+  my-python-script:
+    build: .
+    command: python ./utils/news_api_connector.py
+    volumes:
+      - .:/app
+    networks:
+      - app-network
+
+
+networks:
+  app-network:
+    driver: bridge
