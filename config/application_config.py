@@ -17,6 +17,6 @@ class ApplicationConfig(object):
 
     GOOGLE_DRIVE_OBJECT_ID = os.getenv("GOOGLE_DRIVE_OBJECT_ID", "1YKu9D4HQEd_otZ7Pst-QJPXcyibdKtmX")
 
-    SERVICE_ACCOUNT_CREDENTIALS_FILE = os.getenv("SERVICE_ACCOUNT_CREDENTIALS_FILE")
+    SERVICE_ACCOUNT_CREDENTIALS_FILE = os.getenv("SERVICE_ACCOUNT_CREDENTIALS_FILE", os.path.join("config", "authentication-key.json"))
 
     NEWS_API_KEY = os.getenv("NEWS_API_KEY")
