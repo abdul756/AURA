@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zeta-scene-417417",
+  "private_key_id": "3aa489de04431f918e4b7cccd6179273bd5ab126",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYrTphusW12a+1\nSwtJGKcgIKhcaDNPzly21qDvFGKvigAX/3fifx9dR21OOhx4S/vlyJXRovu8DnT/\nB2RBgW3Yy6UShDMgFogUD3ONI5R5M3FdVhs3CbcdW8NR26BcSTgnIZMGZ5kfBJ5Y\nKZexd1iZaU14N7w8ilMwSjlR9SEysqJIaNv3X2D1aXKKQSE7ffXJ7LUGaETY6jVI\nEWiPUm1oVdLKhprNfeQ+c9FrABXiZWPSf3GP/+lDeF4ihOQS3zIWEXfOtDmWtR7q\nOl7N+Ech83ctYOcMesPMAHVJEaLsbTKGGZdtKohkRIyllne3d8IhNTCDzjKdiR65\nyX+oaxqXAgMBAAECggEAPRYlcf0SlXDAUUfNcDezkmKypI65/KNszx1WdODV67Bn\n01wyQ9hcEtO61MWcVivx4ff5iQc+mmenA2llkfQ38FmFeeFsenzvs1wh0yY3Sy4+\nJTbL6GnkRrIisFbPcIUyABI+nZ0idbS7IZbkTeOcRnACJ8Tq3FSRHHmojFskF2Lx\nTZaz0u21E71bTKtvR42MkBo2kIUVvxlCduHwOi74pxpNbs/k8FR6XxXd+D5fe7f5\nf+zzkBXTI+g1VvZDNrxqFYD3xySD8zLoozqwryGIyEjC02M9f4YKKmH0ShOSo83q\ncNFdrOsuTABYxDohsNkzqA9wa+iM+bA0RoHiqo/zMQKBgQD490xfY3Si7pBZIljm\nEQpa+icYTsOF+NFyY5ATTYDEcOBPQB/Wap772hccY+IHhH/pL7sx/6o/fMJ622xu\nwVf16ECsTCh7pwKo62Od+Ksm3CzlLsuuyrPArmoLU6eyScrR4jIVLAbRxdfD09cT\nDBjXLmGspzR2vdy/dgxULfBIkQKBgQDezGPUWaXBiGzN+f0cqcrYCWSSxBOkDj3/\nNdS/iJb9zzPjFg2Di+zwx9dDwEpj78t0nC3Tr1Lo5fv8aLwxRkFNX+xO1lGW4b1e\nDuumAS9y7Do0zPyHCQnx9q/O/DKudqK05hu5HjgHhKpqqeaa8sh/AtPzqAwXYrVp\nzj/hL7GEpwKBgBc/wLoHp5SvgntQYczaOoVUZuI2OLwCCE0OTx3+VtABWnEMI+z5\n9+685vuXuDvLe8Zi1rBMl7FmDSM76lxNYdFs5t0wH3esmOr9UEgoOJNgbDDatdqU\nw0RzBSQZo8dabL48yUCA5AIi34tB9QuqTYeKpURiONv9zudyNqSFxbKBAoGBAIHB\nV4Kck0SbR4LOTPMcj94x2jj/qNCq2sB/gV/rFMTMn9NpTIWIQH4aZOw4WRrK1Rsc\nujPGr+qjxpXCCZhI6k89xkpD11CgN8FHv0X2+sNbgKqvl4KtaPVaThmmF34z6Z6h\nRRQS3V7DjNyCBqPHMa2G4BnPjPsxqaXtUJa9SA2RAoGBANvExlxcIsRU28eEEH9Q\nF6dhdszDG+8VKLN0GaNAhPp7Mam8XTl5pRWixXiRmxkazwpLpYoYgAbE2D5MaRbY\n8PvgCtA2ZwuaVbXgupODb0SEsIFKQGg05XvYPnxzGrN67qSC/oNtdSXL6FSUQGVd\nbmbSflAXtD9vO96pwLMEuCny\n-----END PRIVATE KEY-----\n",
+  "client_email": "manafai786-gmail-com@zeta-scene-417417.iam.gserviceaccount.com",
+  "client_id": "114082269415813492853",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/manafai786-gmail-com%40zeta-scene-417417.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
