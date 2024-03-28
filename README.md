@@ -141,8 +141,8 @@ Ensure you have Docker and docker compose both latest version installed on your 
 
    ```env
    OPENAI_API_KEY={OPENAI_API_KEY}
-   PATHWAY_REST_CONNECTOR_HOST=8080
-   PATHWAY_REST_CONNECTOR_PORT=backend
+   PATHWAY_REST_CONNECTOR_HOST=backend
+   PATHWAY_REST_CONNECTOR_PORT="8080"
    NEWS_API_KEY="5635b529b43446868b7e7b6ec97fecab"
    ```
 
@@ -204,8 +204,8 @@ Ensure you have Conda installed on your system before proceeding. Conda will be 
 
     ```env
     OPENAI_API_KEY={OPENAI_API_KEY}
-    PATHWAY_REST_CONNECTOR_HOST=8080
-    PATHWAY_REST_CONNECTOR_PORT=0.0.0.0
+    PATHWAY_REST_CONNECTOR_HOST=0.0.0.0
+    PATHWAY_REST_CONNECTOR_PORT="8080"
     NEWS_API_KEY="5635b529b43446868b7e7b6ec97fecab"
    ```
 
